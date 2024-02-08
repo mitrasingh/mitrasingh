@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am deeply passionate about programming and expanding my knowledge in software engineering. I gain satisfaction from solving bugs/issues and unraveling challenges. I'm always trying my best to deliver simple, maintainable and efficient code. Would love to contribute to any projects and collaborate with like-minded individuals to create amazing and impactful apps! Feel free to reach out! </p>
+<p align="left">Always striving to expand my knowledge in software engineering. I gain satisfaction from solving bugs/issues and unraveling challenges. Always trying my best to deliver clear, maintainable and efficient code. Would love to contribute to any projects or collaborate to create amazing and impactful apps! Feel free to reach out! </p>
 
 ###
 
