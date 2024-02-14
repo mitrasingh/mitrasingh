@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">Always striving to expand my knowledge in software engineering. I gain satisfaction from solving bugs/issues and unraveling challenges. Always trying my best to deliver clear, maintainable and efficient code. Would love to contribute to any projects or collaborate to create amazing and impactful apps! Feel free to reach out! </p>
+<p align="left">Always striving to expand my knowledge in software engineering. I try my best to deliver clear, maintainable and efficient code. Would love to contribute to any projects or collaborate to create amazing and impactful apps! Feel free to reach out! </p>
 
 ###
 
-<h2 align="left">Currently I code with...</h2>
+<h2 align="left">Current tech</h2>
 
 ###
 
