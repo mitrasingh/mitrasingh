@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Always striving to expand my knowledge in software engineering. I try my best to deliver clear, maintainable and efficient code. Would love to contribute to any projects or collaborate to create amazing and impactful apps! Feel free to reach out! </p>
+<p align="left">Always striving to expand my knowledge in software engineering. Continuously striving to deliver code that is readable, maintainable, and efficient. Would love to contribute to any projects! Feel free to reach out! </p>
 
 ###
 
