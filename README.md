@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mitra Singh and I am a Frontend Developer from New York</p>
+<p align="left">My name is Mitra Singh and I am a Frontend Engineer from New York.</p>
 
 ###
 
