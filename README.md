@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mitra Singh and I am a Frontend Engineer @ <a href="https://hs.credit" target="_blank">HS.Credit</a>.</p>
+<p align="left">My name is Mitra Singh and I am a Frontend Developer.</p>
 
 ###
 
